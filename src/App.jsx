@@ -1,5 +1,5 @@
 import { Button } from "@chakra-ui/react"
-import { Route } from "react-router-dom"
+import { Route, Routes } from "react-router-dom"
 import HomePage from "./pages/Home/HomePage"
 
 function App() {
